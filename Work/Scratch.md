@@ -1,1 +1,4 @@
-2022-09-01 11:00
+- Add streaming components to CI/CD
+	- Exclude Snowmelt, Snowchute, and Grafana
+- Minimum Viable Documentation (MVD)
+	- 
