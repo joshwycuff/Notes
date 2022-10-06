@@ -1,4 +1,2 @@
-- Add streaming components to CI/CD
-	- Exclude Snowmelt, Snowchute, and Grafana
-- Minimum Viable Documentation (MVD)
-	- 
+- Need unique Kafka producer client IDs for Traffic Control and Zamboni instances
+	- Maybe use Fargate task ID?
