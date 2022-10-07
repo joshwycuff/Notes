@@ -3,3 +3,4 @@
 - Add us-east-2 and eu-west-1 to streaming dashboard
 - Terraform streaming dashboard
 - During MVP, ignore records with no unstruct data. Long-term, send them to a bad data topic.
+- Log number of events skipped not on allow list.
