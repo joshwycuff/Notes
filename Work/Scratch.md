@@ -1,2 +1,4 @@
-- Need unique Kafka producer client IDs for Traffic Control and Zamboni instances
-	- Maybe use Fargate task ID?
+- Raise minimum task count for traffic control to 4 in prod
+- Add eu-west-1 to ERP dashboard
+- Add us-east-2 and eu-west-1 to streaming dashboard
+- Terraform streaming dashboard
