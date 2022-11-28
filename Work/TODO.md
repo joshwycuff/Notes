@@ -2,6 +2,7 @@
 	- Make update optional
 	- Only update/install main dependencies
 	- Maybe switch from virtualenv to venv
+	- Maybe remove poetry dependency on poetry.lock
 - cnn-aws-utils v1
 	- Make boto3 an optional dependency
 	- Remove custom boto3 session handling
