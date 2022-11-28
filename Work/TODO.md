@@ -1,0 +1,8 @@
+- di-terraform / python lambda update
+	- Make update optional
+	- Only update/install main dependencies
+	- Maybe switch from virtualenv to venv
+- cnn-aws-utils v1
+	- Make boto3 an optional dependency
+	- Remove custom boto3 session handling
+- content manager
