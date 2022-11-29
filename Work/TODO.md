@@ -7,3 +7,6 @@
 	- Make boto3 an optional dependency
 	- Remove custom boto3 session handling
 - content manager
+	- Remove temp_capture after done
+	- At some point, re-think expiration lifecycle rules
+	- 
