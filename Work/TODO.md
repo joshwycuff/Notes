@@ -9,4 +9,5 @@
 - content manager
 	- Remove temp_capture after done
 	- At some point, re-think expiration lifecycle rules
-	- 
+
+Ask Jon if new dbt roles can resize warehouses.
