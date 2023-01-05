@@ -25,14 +25,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Help Workflow.md",
+                "file": "Work/Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "128f4e1f0e5aa94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Chores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecb31c324531fd96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/In Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5f9e06bcdc309ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Follow Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b62630eb0ec5644c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Content Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbe89589ff12090c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Consumer Data Platform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad6fb35c176b6fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Snow Goggles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989c47c253f7aa49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Snowflake Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -98,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Help Workflow.md",
+                "file": "Work/Projects/Snowflake Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Help Workflow.md",
+                "file": "Work/Projects/Snowflake Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Help Workflow.md"
+                "file": "Work/Projects/Snowflake Management.md"
               }
             }
           }
@@ -149,14 +233,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e3bd6c1aa46d246c",
+  "active": "989c47c253f7aa49",
   "lastOpenFiles": [
-    "Work/TODO.md",
+    "Work/Projects/Snow Goggles.md",
+    "Work/Projects/Consumer Data Platform.md",
+    "Work/Projects/Content Manager.md",
+    "Work/Follow Up.md",
+    "Work/In Progress.md",
+    "Home/Chores.md",
     "Work/Scratch.md",
-    "Learning/Distributed Systems/Resources.md",
-    "Testing.md"
+    "Work/Help Workflow.md",
+    "Work/TODO.md",
+    "Learning/Distributed Systems/Resources.md"
   ]
 }
