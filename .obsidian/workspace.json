@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/TODO.md",
+                "file": "Work/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/TODO.md",
+                "file": "Work/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/TODO.md",
+                "file": "Work/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/TODO.md"
+                "file": "Work/TODO.md"
               }
             }
           }
@@ -247,15 +247,15 @@
   },
   "active": "3ceee43899fae08a",
   "lastOpenFiles": [
+    "Work/Projects/Consumer Data Platform.md",
+    "Home/TODO.md",
     "Home/Chores.md",
     "Work/Projects/Snowflake Management.md",
     "Work/Projects/Snow Goggles.md",
-    "Work/Projects/Consumer Data Platform.md",
     "Work/Projects/Content Manager.md",
     "Work/Follow Up.md",
     "Work/In Progress.md",
     "Work/Scratch.md",
-    "Work/Help Workflow.md",
-    "Work/TODO.md"
+    "Work/Help Workflow.md"
   ]
 }
