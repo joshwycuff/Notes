@@ -18,3 +18,5 @@ Discuss with Rosh and Christian giving JT SecurityAdmin.
 Go to Verlin and/or Virginia for Snowflake account help.
 
 Virginia should approve additions to firewall allow list.
+
+Sort out CNN PyPi branches.
