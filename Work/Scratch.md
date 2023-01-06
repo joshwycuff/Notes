@@ -10,3 +10,7 @@
 Go through cnn-zion issues and/or PRs.
 Implement Code Owners. 
 Add Christian and Rosh to Code Owners.
+
+Check with Jon on new dbt roles.
+
+Discuss with Rosh and Christian giving JT SecurityAdmin.
