@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Chores.md",
+                "file": "Work/Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Chores.md",
+                "file": "Work/Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Chores.md",
+                "file": "Work/Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Chores.md"
+                "file": "Work/Scratch.md"
               }
             }
           }
@@ -283,8 +283,8 @@
   },
   "active": "4e618a8c4c6bda2d",
   "lastOpenFiles": [
-    "Home/TODO.md",
     "Home/Chores.md",
+    "Home/TODO.md",
     "Home/Scratch.md",
     "Work/Chores.md",
     "Work/TODO.md",
