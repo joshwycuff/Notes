@@ -8,3 +8,9 @@ Order 3D printer enclosure.
 Get caught up on finances.
 
 Get blink on phone.
+
+Find a psychiatrist.
+
+Clean up garage.
+
+Remove inner fence.
