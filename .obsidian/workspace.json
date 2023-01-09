@@ -54,9 +54,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af59569d79ff88fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 3
+=======
+        "currentTab": 13
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -183,7 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "4488d40d3c52351c",
+=======
+  "active": "af59569d79ff88fc",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "personal/projects/home-network/README.md",
     "personal/Scratch.md",
