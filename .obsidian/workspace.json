@@ -4,167 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9fbb1bdbd6c850",
+        "id": "492aa52609fcd70f",
         "type": "tabs",
         "children": [
           {
-            "id": "9815f514100364b1",
+            "id": "d1e0de9e84c0dda8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/TODO.md",
+                "file": "personal/Chores.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3bd6c1aa46d246c",
+            "id": "27b09b88c19369f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Scratch.md",
+                "file": "personal/projects/home-network/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "128f4e1f0e5aa94a",
+            "id": "e5b605f1073a87ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Chores.md",
+                "file": "personal/projects/home-network/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecb31c324531fd96",
+            "id": "4488d40d3c52351c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f9e06bcdc309ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Follow Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b62630eb0ec5644c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Projects/Content Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbe89589ff12090c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Projects/Consumer Data Platform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ad6fb35c176b6fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Projects/Snow Goggles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "989c47c253f7aa49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/Chores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ceee43899fae08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2752dd4f34c826a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8528368c4381395f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/Chores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e618a8c4c6bda2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Scratch.md",
+                "file": "personal/projects/custom-keyboard/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Scratch.md",
+                "file": "personal/projects/custom-keyboard/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Scratch.md",
+                "file": "personal/projects/custom-keyboard/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Scratch.md"
+                "file": "personal/projects/custom-keyboard/README.md"
               }
             }
           }
@@ -281,17 +173,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e618a8c4c6bda2d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4488d40d3c52351c",
   "lastOpenFiles": [
-    "Home/Chores.md",
-    "Home/TODO.md",
-    "Home/Scratch.md",
-    "Work/Chores.md",
-    "Work/TODO.md",
-    "Learning/Scratch.md",
-    "Work/Scratch.md",
-    "Work/In Progress.md",
-    "Work/Follow Up.md",
-    "Work/Projects/Snow Goggles.md"
+    "personal/projects/home-network/README.md",
+    "personal/Scratch.md",
+    "personal/projects/first-bot/README.md",
+    "personal/Chores.md",
+    "work/cnn/Chores.md",
+    "work/cnn/Scratch.md",
+    "personal/TODO.md",
+    "work/cnn/TODO.md",
+    "personal/learning/Scratch.md",
+    "work/cnn/In Progress.md"
   ]
 }
