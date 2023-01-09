@@ -162,9 +162,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af59569d79ff88fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -281,7 +291,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e618a8c4c6bda2d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "af59569d79ff88fc",
   "lastOpenFiles": [
     "Home/Chores.md",
     "Home/TODO.md",
