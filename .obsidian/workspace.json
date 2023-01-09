@@ -3,6 +3,33 @@
     "id": "35ca0ec4f4f075b7",
     "type": "split",
     "children": [
+      {
+        "id": "0c4b108fd421144f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a4dc42f915449f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3887f03e2744c200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/cnn/In Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
     ],
     "direction": "vertical"
   },
@@ -67,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/projects/custom-keyboard/README.md",
+                "file": "work/cnn/In Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/projects/custom-keyboard/README.md",
+                "file": "work/cnn/In Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/projects/custom-keyboard/README.md"
+                "file": "work/cnn/In Progress.md"
               }
             }
           }
@@ -128,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0dab8a85e52846d",
+  "active": "3887f03e2744c200",
   "lastOpenFiles": [
-    "personal/projects/home-network/README.md",
-    "personal/Scratch.md",
-    "personal/projects/first-bot/README.md",
-    "personal/Chores.md",
     "work/cnn/Chores.md",
+    "work/cnn/Follow Up.md",
+    "work/cnn/In Progress.md",
     "work/cnn/Scratch.md",
-    "personal/TODO.md",
+    "work/cnn/projects/Snowflake Admin.md",
     "work/cnn/TODO.md",
-    "personal/learning/Scratch.md",
-    "work/cnn/In Progress.md"
+    "conflict-files-obsidian-git.md",
+    "Home/Chores.md",
+    "Home/TODO.md",
+    "Home/Scratch.md"
   ]
 }
