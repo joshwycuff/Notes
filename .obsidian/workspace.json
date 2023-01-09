@@ -3,75 +3,6 @@
     "id": "35ca0ec4f4f075b7",
     "type": "split",
     "children": [
-      {
-        "id": "492aa52609fcd70f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d1e0de9e84c0dda8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/Chores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27b09b88c19369f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/projects/home-network/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b605f1073a87ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/projects/home-network/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4488d40d3c52351c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/projects/custom-keyboard/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af59569d79ff88fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          }
-        ],
-<<<<<<< HEAD
-        "currentTab": 3
-=======
-        "currentTab": 13
->>>>>>> origin/main
-      }
     ],
     "direction": "vertical"
   },
@@ -197,11 +128,7 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "4488d40d3c52351c",
-=======
-  "active": "af59569d79ff88fc",
->>>>>>> origin/main
+  "active": "f0dab8a85e52846d",
   "lastOpenFiles": [
     "personal/projects/home-network/README.md",
     "personal/Scratch.md",
